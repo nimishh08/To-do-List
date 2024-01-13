@@ -1,0 +1,13 @@
+.ToDoList {
+  width: 100%;
+}
+.Action {
+  text-align: right;
+}
+th {
+  text-align: left;
+}
+tr {
+  border-radius: 3px;
+  border: groove 2px rosybrown;
+}
